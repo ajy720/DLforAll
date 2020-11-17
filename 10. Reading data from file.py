@@ -1,20 +1,21 @@
 import tensorflow.compat.v1 as tf
 import matplotlib.pyplot as plt
+import numpy as np
 tf.disable_v2_behavior()
 
-x_data = [[73., 80., 75.],
-          [93., 88., 93.],
-          [89., 91., 90.],
-          [96., 98., 100.],
-          [73., 66., 70.]]
+xy = np.loadtxt('./data/data-01-test-score.csv', delimiter=',', dtype=np.float32)
+x_data = xy[:, 0:-1]
+y_data = xy[:, [-1]]
 
-y_data = [[152.], [185.], [180.], [196.], [142.]]
+# print(x_data.shape, x_data, len(x_data))
+# print(y_data.shape, y_data)
+
 
 X = tf.placeholder(tf.float32, shape=[None, 3])
 
 Y = tf.placeholder(tf.float32, shape=[None, 1])
 
-W = tf.Variable(tf.random_normal([3, 1]), name='weight1')
+W = tf.Variable(tf.random_normal([3, 1]), name='weight')
 b = tf.Variable(tf.random_normal([1]), name='bias')
 
 hypothesis = tf.matmul(X, W) + b
@@ -27,12 +28,11 @@ train = optimizer.minimize(cost)
 sess = tf.Session()
 
 sess.run(tf.global_variables_initializer())
-for step in range(2001):
+for step in range(100001):
     cost_val, hy_val, _ = sess.run([cost, hypothesis, train],
                                 feed_dict={X: x_data, Y: y_data})
 
-    if step % 10 == 0:
+    if step % 1000 == 0:
         print(f'{step} Cost : {cost_val}')            
         print(f'Prediction {hy_val}\n')            
         
-
