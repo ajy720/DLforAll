@@ -24,3 +24,5 @@
 5. (11/18)
    - [05강. Logistic Classification의 가설 함수 정의](https://www.notion.so/ajy720/5-Logistic-regression-classification-5dd6aeb7147e4095b65d5eabe8ca2a5b)
    - [05강. Logistic Regression의 cost 함수 설명](https://www.notion.so/ajy720/5-Logistic-regression-classification-5dd6aeb7147e4095b65d5eabe8ca2a5b)
+6. (11/23)
+   - 05강. Logistic Regression 구현하기
