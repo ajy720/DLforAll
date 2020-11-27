@@ -30,3 +30,5 @@
 7. (11/25)
    - 06강. Softmax Classifier 구현하기
    - (Practice) 붓꽃 데이터 Classification
+8. (11/27)
+   - [07강.Learning rate, Overfitting, Regularization](https://www.notion.so/ajy720/7-Learning-rate-Overfitting-Regularization-c1dfe97c4dad47fa90dcc2f3ed1682bb)
