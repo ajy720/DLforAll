@@ -26,4 +26,7 @@
    - [05강. Logistic Regression의 cost 함수 설명](https://www.notion.so/ajy720/5-Logistic-regression-classification-5dd6aeb7147e4095b65d5eabe8ca2a5b)
 6. (11/23)
    - 05강. Logistic Regression 구현하기
-   - 06강. [Softmax Regression (Multinomial Logistic Regression)의 Hypothesis와 Cost function 이론](https://www.notion.so/ajy720/6-Softmax-Regression-6880d7f5fa2f4d538c02b7ab0d949031)
+   - [06강. Softmax Regression (Multinomial Logistic Regression)의 Hypothesis와 Cost function 이론](https://www.notion.so/ajy720/6-Softmax-Regression-6880d7f5fa2f4d538c02b7ab0d949031)
+7. (11/25)
+   - 06강. Softmax Classifier 구현하기
+   - (Practice) 붓꽃 데이터 Classification
