@@ -35,3 +35,4 @@
 9. (12/1)
    - [07-2강. Training/Testing Data set, Online Learning](https://www.notion.so/ajy720/7-2-Training-Testing-Data-set-Online-Learning-129883a7e8534c278d7ac5fa2de6e4a9)
    - 07강. training/testing data set, learning rate, normalization 실습
+   - 07강. MNIST dataset 실습
