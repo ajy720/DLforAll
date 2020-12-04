@@ -32,7 +32,10 @@
    - (Practice) 붓꽃 데이터 Classification
 8. (11/27)
    - [07-1강. Learning rate, Overfitting, Regularization](https://www.notion.so/ajy720/7-Learning-rate-Overfitting-Regularization-c1dfe97c4dad47fa90dcc2f3ed1682bb)
-9. (12/1)
+9. (12/2)
    - [07-2강. Training/Testing Data set, Online Learning](https://www.notion.so/ajy720/7-2-Training-Testing-Data-set-Online-Learning-129883a7e8534c278d7ac5fa2de6e4a9)
    - 07강. training/testing data set, learning rate, normalization 실습
    - 07강. MNIST dataset 실습
+10. (12/4)
+    - [08강. XOR 문제, Neural Network, MLP](https://www.notion.so/ajy720/8-1-XOR-Neural-Network-MLP-f15f4f5340294789b54086d566d97abf)
+    - [08강. Backpropagation, Deep Learning의 시작](https://www.notion.so/ajy720/8-2-Backpropagation-Deep-Learning-b827fef2764d478d8f8d77661e5d1a0c)
