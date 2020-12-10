@@ -39,3 +39,5 @@
 10. (12/4)
     - [08강. XOR 문제, Neural Network, MLP](https://www.notion.so/ajy720/8-1-XOR-Neural-Network-MLP-f15f4f5340294789b54086d566d97abf)
     - [08강. Backpropagation, Deep Learning의 시작](https://www.notion.so/ajy720/8-2-Backpropagation-Deep-Learning-b827fef2764d478d8f8d77661e5d1a0c)
+11. (12/11)
+    - 08강. Tensor Manipulation
