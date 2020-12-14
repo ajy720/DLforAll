@@ -41,3 +41,5 @@
     - [08강. Backpropagation, Deep Learning의 시작](https://www.notion.so/ajy720/8-2-Backpropagation-Deep-Learning-b827fef2764d478d8f8d77661e5d1a0c)
 11. (12/11)
     - 08강. Tensor Manipulation
+12. (12/14)
+    - [(번외) 미분 알고가기](https://www.notion.so/ajy720/9-0-592436b3b2774a34bd971f59864e6f0f)
