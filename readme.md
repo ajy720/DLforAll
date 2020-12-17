@@ -45,3 +45,5 @@
     - [(번외) 미분 알고가기](https://www.notion.so/ajy720/9-0-592436b3b2774a34bd971f59864e6f0f)
 13. (12/15)
     - [9-1강. Neural Nets(NN) for XOR](https://www.notion.so/ajy720/9-1-Neural-Nets-NN-for-XOR-451648e666434322a79a58497766348e)
+14. (12/17)
+    - [9-2강. Backpropagation](https://www.notion.so/ajy720/9-2-Backpropagation-20a17e4952934e06b4ba61f7d6f84311)
