@@ -49,3 +49,7 @@
     - [9-2강. Backpropagation](https://www.notion.so/ajy720/9-2-Backpropagation-20a17e4952934e06b4ba61f7d6f84311)
 15. (12/21~22)
     - [9강. Tensorboard](https://www.notion.so/ajy720/9-2-lab-TensorBoard-c1407fcacbe2476ea19c9615a49881a2)
+16. (12/24)
+    - [10-1강. ReLU](https://www.notion.so/ajy720/10-1-ReLU-0202a3d7fa144baab4972ccc997b38d1)
+    - [10-2강. RBM, Xavier/He initialization](https://www.notion.so/ajy720/10-2-RBM-Xavier-He-initialization-19734e62ee2349f080b94f60635a3a1f)
+    - [10-3강. Dropout, Ensemble](https://www.notion.so/ajy720/10-3-Dropout-Ensemble-83e51abbd561425e9eb5d22b67a78451)
